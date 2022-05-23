@@ -1,3 +1,5 @@
-# Zenn CLI
+# Zenn コンテンツレポジトリ
+Zennのコンテンツ管理レポジトリ
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+
+https://zenn.dev/sakamohy
